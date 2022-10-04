@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "pharmbot-eauo",
+  "private_key_id": "d1930fcf46b6561de255e9580b44c61315c90384",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCdsVKbx6vTDLpJ\n9QAqlCyqKsk3Rc0+FEP/DW1gBn763hhpMMY0nQMO+ARws+w+svi5C/e/S3n5QDDd\nWoEm37D7FiKESQjy7mpaOrSWvhzP2uDXAp8dyEuNGrMVPRbz544r00QlwEaH6SzU\nHY30pdf0Kq929/8rzMPR0gJbpbZuy67tDRi27Ad/4W+ct1ejmHxipwHymNYgf2tO\ni0TbQCMfy3RGFqfq0vfRsIzM98ziMbdBnO3dBJOi/cPhtkBPq/C9emrf3tN9NFPM\nUd7iCcCMl17F7uP2OrER+ix/1MWs8jpGoa6lni/VIny85CUYQKGS9lNiLPmzBAiB\nrbFExprBAgMBAAECgf8p+x3svfxeSY9jIQf5qhKFEfo+tDzqmjLi9lkb+5tUNPVK\nud97IkrtTI32iwDdSeOHAHO8B0yVc2Dx5chrR5Krl6ETroAHBwEjuTInVdveTcTY\n6XUP3WbBXuEeb1Mb6k2e7JOgAcUd5Io/lWE3E/n0O7rW75HbWc9Qe5M5nDtMNbjP\n2b0gL53SY6wIlrnC3fKrjKEbb0DWEBo9CBmbs3lsKa/4boOytOBKhXM2jqlkGz6R\nRgjwZ5/gyuBnZ1bfGb8anwR0Hhgx6JQXhs31P3I67fEgGbAhFv2WweemOgDzHZ3o\nIboArO/cHISJst55ZI3lbfP3Ipqk0XiLagOUrRsCgYEA2L9m/M0heyLtxdznajr+\n+jX1Tbuy2kwKvpIdWH1luJQr8NFOTcHhUQEyzd+g+LoybgfFPrFtYdd59V0N4eMR\n2sGWU+i2u2/d/30DlLNdAO45ucSDDajyYZk92zHyPRpcPJPl1S2eu/96GuKRHizy\nZw9XcsAH/X6rK5IEKs7fpc8CgYEAukAVLagdQJU5LTTnWCX95BKvrX3NKneKd0Rz\nw4ym2J1c/a8u2qL3wistKF+Guk6hhb/SkRkPmxvo2Cw1vcaTm5BImfPevefQSAmy\nPn7pYiVUwmx3LkMMdjDWDwTSFRHmRmJ36WQoMlfkhCzMs/utB3h86V35xyuS5346\n7AX6am8CgYEAvin31pa26E015eIxWt+V87rBlMi4W5RZ3OdfPdMPGwlNIATTOZ9/\n6s0tYLjyhyb9tdG1eZK7kBs4ElDpLCVH9fDgzo+fOwYj9NMfACj50SYxmU3TWXm/\n5mdHgPfqOzfUcwWjoQxcdz7nR40+mwX+SvOH2tKmb/7heOGsLE7Co7sCgYEAt2lH\n8dAuDl1lEumYMKwpHCJysizCj+FskAru3VFzNLmyy3dqcpAt4B5Yt/tqV6n7UhUW\nrSC6x4pyf/75ZUtaLMWnWURYwza3W1mBGB4ugiI1F8lsjDgm23U4N04N/AXGeOWb\nJFEnbHw1Yxwi8dMUD9lNWRrcUJDOd/1M1QUGFy0CgYAx7PXVysHsQIJ8OYwrBqDa\nXM66jd5cF9zekn+H+HE2NqOoZuRYB86Lj77NK7LyZmN9AqimF3V/K16Am47fqm7M\nGuCD7NmOZnBJaKYo++6CMgzBwuq1XsDXxymSyKhIen/Uar5Er9zKiUDAXcWjvI8/\ncdkTTkYz8mxSxMMjlgwj/A==\n-----END PRIVATE KEY-----\n",
+  "client_email": "techpharma@pharmbot-eauo.iam.gserviceaccount.com",
+  "client_id": "104395351522824659545",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/techpharma%40pharmbot-eauo.iam.gserviceaccount.com"
+}
